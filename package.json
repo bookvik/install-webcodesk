@@ -1,5 +1,5 @@
 {
-  "name": "@webcodesk/install-webcodesk",
+  "name": "@bookvik/install-webcodesk",
   "version": "1.0.0",
   "author": {
     "name": "Alex Pustovalov",
@@ -11,14 +11,14 @@
   "description": "The Webcodesk server initialization tool",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webcodesk/install-webcodesk.git"
+    "url": "https://github.com/bookvik/install-webcodesk.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/webcodesk/install-webcodesk/issues"
+    "url": "https://github.com/bookvik/install-webcodesk/issues"
   },
   "files": [
     "index.js",
