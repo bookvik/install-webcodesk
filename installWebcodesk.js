@@ -146,7 +146,7 @@ function run(
   originalDirectory,
   useYarn,
 ) {
-  const allDependencies = ['@webcodesk/webcodesk-srv@latest'];
+  const allDependencies = ['bookvik/webcodesk-srv'];
   console.log('Installing @webcodesk/webcodesk-srv package. This might take a couple of minutes.');
   return install(root, useYarn, allDependencies)
     .then(() => {
