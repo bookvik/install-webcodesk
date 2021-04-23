@@ -27,7 +27,7 @@ const program = new commander.Command(packageJson.name)
   .action(name => {
     projectName = name;
   })
-  .option('--use-npm')
+//  .option('--use-npm')
   .on('--help', () => {
     console.log(`Only ${chalk.green('<project-directory>')} is required.`);
     console.log();
